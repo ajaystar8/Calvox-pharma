@@ -1,0 +1,90 @@
+#brand-name {
+  font-family: "Pacifico", cursive;
+  color: #e65100;
+}
+
+.nav-link {
+  font-family: "Ubuntu", sans-serif;
+  color: #000000;
+}
+
+.bg {
+  background-color: #eceff1;
+}
+
+h5 {
+  font-size: 30px;
+  font-family: "Ubuntu", sans-serif;
+}
+
+#slider1 {
+  color: #000000;
+  padding-top: 30px;
+}
+
+#slider2 {
+  color: #1b5e20;
+}
+
+#pslider2 {
+  color: #a5d6a7;
+  font-weight: 500;
+}
+
+#pslider1 {
+  color: #000000;
+  font-weight: 500;
+}
+
+#plink1 {
+  text-decoration: none;
+  color: red;
+  font-weight: 600;
+}
+
+#slider3 {
+  color: #ffffff;
+  font-weight: 900;
+}
+
+#pslider3 {
+  color: #ffffff;
+  font-weight: 500;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  color: #00695c;
+}
+
+.heading {
+  border: 2px solid black;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: lighter;
+}
+
+.bottom-right {
+  bottom: 5px;
+  right: 10px;
+}
+
+.btn-success {
+  background-color: #00b8d4 !important;
+}
+
+.reach {
+  padding: 5px;
+  margin: 30px;
+}
+
+.col {
+  width: 30%;
+  margin-left: 40px;
+}
+
+body {
+  background-color: #f8f9d2;
+  background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
+}
